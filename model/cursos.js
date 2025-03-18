@@ -1,4 +1,11 @@
 export function cargarCursosBD() {
-    console.log('hola');
+    return ['Desarrollo de Aplicaciones Web', 
+        'Desarrollo de Aplicaciones Multiplataforma', 
+        'Administración de Sistemas Informáticos de Red',
+        'Sistemas Microinformáticos de Red'];
+}
+
+export function cargarTablaHorarios(tabla){
+
 }
 
